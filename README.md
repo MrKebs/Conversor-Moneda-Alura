@@ -1,4 +1,4 @@
-# Conversor-Monedas-Alura
+# Conversor-Moneda-Alura
 
 Proyecto prueba del Reto 1 (Challenge) del programa Alura ONE Next Education, un conversor de monedas como parte del curso de especialización Back-End.
 
