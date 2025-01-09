@@ -10,7 +10,7 @@ import com.google.gson.JsonParser;
 public class CurrencyConverter {
 
     // URL de la API con la clave API Exchangerate embebida.
-    private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/2d550dda9f535ef2d94b1ac1/latest/";
+    private static final String BASE_URL = {EXCHANGE_RATE-API-KEY};
 
     public static double getExchangeRate(String baseCurrency, String targetCurrency) {
         try {
